@@ -23,7 +23,7 @@ Data-driven ground motion models (GMMs) for the average horizontal component fro
 * Intall all dependencies using pip, run the command: pip install -r requirements.txt
 ```ShellSession
 $ conda deactivate
-$ conda create -n GMM python=3.9.16 anaconda
+$ conda create -n GMM python=3.9.13 anaconda
 $ conda activate GMM
 ```
 Then, install the requirements:
