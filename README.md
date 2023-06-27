@@ -28,7 +28,7 @@ $ conda activate GMM
 ```
 Then, install the requirements:
 ```ShellSession
-$ pip install --r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Citation <a name = "citation"></a>
