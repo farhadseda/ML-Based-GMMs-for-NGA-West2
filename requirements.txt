@@ -1,0 +1,11 @@
+joblib==1.2.0
+keras==2.11.0
+pipreqs==0.4.13
+pymer4==0.8.0
+scikeras==0.10.0
+scikit-learn==1.2.1
+scipy==1.9.1
+sklearn-lmer==0.0.5
+statsmodels==0.13.2
+numpy
+pandas
