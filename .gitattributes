@@ -1,3 +1,0 @@
-wrapper_RFR.sav filter=lfs diff=lfs merge=lfs -text
-*.sav.gz filter=lfs diff=lfs merge=lfs -text
-*.joblib filter=lfs diff=lfs merge=lfs -text
