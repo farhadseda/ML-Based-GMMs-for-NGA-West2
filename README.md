@@ -18,7 +18,7 @@ Data-driven ground motion models (GMMs) for the average horizontal component fro
 
 ## Install the requirements <a name = "install"></a>
 * Python 3.9 and higher is required
-* Create a virtual environment: conda create -n <env_name> python=3.9
+* Create a virtual environment: conda create -n <env_name> python=3.9.13
 * Activate the virtual environment: conda activate <env_name>
 * Intall all dependencies using pip, run the command: pip install -r requirements.txt
 ```ShellSession
